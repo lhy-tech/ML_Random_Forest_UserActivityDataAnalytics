@@ -1,1 +1,1 @@
-# ML_Random_Forest_UserActivityDataAnalytics
+# 랜덤 포레스트로 예측한 사용자 행동 데이터 분석 및 컬럼 중요도 시각화입니다.
